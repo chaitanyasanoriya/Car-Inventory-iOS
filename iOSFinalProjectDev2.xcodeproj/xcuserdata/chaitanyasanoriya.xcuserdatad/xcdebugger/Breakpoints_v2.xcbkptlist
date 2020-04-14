@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "66414A51-589F-4D22-85CA-74441B72E009"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9C00383D-8D96-4FA8-827A-A224AACDF199"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSFinalProjectDev2/CustomCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17">
+            <Locations>
+               <Location
+                  uuid = "9C00383D-8D96-4FA8-827A-A224AACDF199 - 93b1a048319441ac"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSFinalProjectDev2.CustomCollectionViewCell.mCarNameLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "iOSFinalProjectDev2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chaitanyasanoriya/Documents/College/iOS%20programming/iOSFinalProjectDev2/iOSFinalProjectDev2/CustomCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "9C00383D-8D96-4FA8-827A-A224AACDF199 - e553b917d9f9edd0"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSFinalProjectDev2.CustomCollectionViewCell.mCarNameLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "iOSFinalProjectDev2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chaitanyasanoriya/Documents/College/iOS%20programming/iOSFinalProjectDev2/iOSFinalProjectDev2/CustomCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  uuid = "9C00383D-8D96-4FA8-827A-A224AACDF199 - 838acb860555eea3"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSFinalProjectDev2.CustomCollectionViewCell.mCarNameLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "iOSFinalProjectDev2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chaitanyasanoriya/Documents/College/iOS%20programming/iOSFinalProjectDev2/iOSFinalProjectDev2/CustomCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "9C00383D-8D96-4FA8-827A-A224AACDF199 - 3656a6670961a467"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSFinalProjectDev2.CustomCollectionViewCell.mCarNameLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "iOSFinalProjectDev2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chaitanyasanoriya/Documents/College/iOS%20programming/iOSFinalProjectDev2/iOSFinalProjectDev2/CustomCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "9C00383D-8D96-4FA8-827A-A224AACDF199 - 12ea35dd0e014096"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSFinalProjectDev2.CustomCollectionViewCell.init(frame: __C.CGRect) -&gt; iOSFinalProjectDev2.CustomCollectionViewCell"
+                  moduleName = "iOSFinalProjectDev2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chaitanyasanoriya/Documents/College/iOS%20programming/iOSFinalProjectDev2/iOSFinalProjectDev2/CustomCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "9C00383D-8D96-4FA8-827A-A224AACDF199 - ad2742a8a016c4cc"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSFinalProjectDev2.CustomCollectionViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;iOSFinalProjectDev2.CustomCollectionViewCell&gt;"
+                  moduleName = "iOSFinalProjectDev2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chaitanyasanoriya/Documents/College/iOS%20programming/iOSFinalProjectDev2/iOSFinalProjectDev2/CustomCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "204">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "71C97E49-C404-4B57-A87F-551B30398822"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSFinalProjectDev2/CustomCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
