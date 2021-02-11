@@ -212,3 +212,10 @@ If there are no cars in inventory, the application shows a default cell that say
   <img alt="Default Cell" src="screenshots/empty.png" />
 </p>
 <br/>
+
+## Manager Credentials
+The application has hardcoded manager credentials, which are:
+<br/>
+Username: manager
+<br/>
+Password: test
